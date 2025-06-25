@@ -83,6 +83,11 @@ Each example Autograf is organized in sub-folders. The following Autografs are i
 >![Preview of the ai-avatar-srt-mogrt Autograf](ai-avatar-srt-mogrt/preview-ai-avatar-srt-mogrt.png)
 >As one of the more advanced examples, this Autograf showcases how Templater updates subtitles, stored in referenced SRT files, as it processes its connected data.  It also showcases how Templater can [update a pre-comp's *Essential Properties*](https://support.dataclay.com/templater/content/how_to/data/dynamicessentialproperties.htm) from its connected data source.  You can also see how to use remote footage sources for content inside the Autograf.  This example uses lip-sync animations created with [HeyGen](https://www.heygen.com) from avatars created with [MidJourney](https://midjourney.com). The included SRT data files were exported from the HeyGen videos using [whisper-video](https://github.com/IOriens/whisper-video) which uses OpenAI to convert spoken audio to speech on a local machine.
 
+### motivational-quotes
+
+>![Preview of the motivational-quotes Autograf](motivational-quotes/preview-motivational-quotes.png)
+>A very basic, text-only, Autograf that uses expression code to animate a multi-line text layer, but where the layer's content is driven by [the data source](motivational-quotes/data/motivational-quotes.json).  This is an extremely basic project that intended for users to get ramped up with basic data mapping. If you are having difficulty with getting Templater to "just work" then try out this Autograf.
+
 ## Other resources for learning
 
 If you want the real nitty gritty on Templater, head over to [our official documentation](https://support.dataclay.com), join and participate in the [Dataclay Forums](https://forums.dataclay.com), or watch our videos on [the @dataclay YouTube channel](https://youtube.com/dataclay).
