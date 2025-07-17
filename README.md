@@ -117,4 +117,4 @@ Issue a pull request and the Dataclay team will review your work to merge it int
 
 Thank you for testing out these Autografs with Templater!  If you find they do not work for you, and if the additional learning resources do not help fix the issues you encounter with these Autografs, please feel free to [contact us via Dataclay's support](https://dataclay.com/contact-us/), or simply add an entry to this repository's issues tab.
 
-Happy Rendering!
+Happy Rendering!!!
